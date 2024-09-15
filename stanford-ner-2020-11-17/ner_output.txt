@@ -1,0 +1,40 @@
+A/O firefighter/O has/O died/O during/O a/O flood/O rescue/O in/O Austria/LOCATION and/O one/O person/O has/O drowned/O in/O Poland/LOCATION ,/O as/O torrential/O rain/O caused/O by/O Storm/O Boris/O continues/O to/O wreak/O havoc/O across/O Central/LOCATION and/LOCATION Eastern/LOCATION Europe/LOCATION ./O 
+The/O Austrian/O province/O surrounding/O Vienna/LOCATION has/O been/O declared/O a/O disaster/O area/O ,/O with/O its/O leaders/O speaking/O of/O "/O an/O unprecedented/O extreme/O situation/O "/O ./O 
+In/O Romania/LOCATION ,/O where/O four/O people/O were/O killed/O on/O Saturday/O ,/O the/O prime/O minister/O says/O two/O others/O are/O missing/O ,/O while/O several/O remain/O unaccounted/O for/O in/O the/O Czech/LOCATION Republic/LOCATION ./O 
+Poland/LOCATION 's/O prime/O minister/O Donald/PERSON Tusk/PERSON confirmed/O one/O death/O on/O Sunday/O as/O he/O urged/O stricken/O residents/O to/O cooperate/O with/O rescuers/O ./O 
+In/O the/O Czech/LOCATION Republic/LOCATION ,/O flooding/O has/O led/O to/O evacuations/O and/O 51,000/O households/O in/O the/O country/O 's/O northern/O areas/O have/O been/O hit/O by/O power/O outages/O ,/O Czech/O power/O company/O CEZ/ORGANIZATION says/O ./O 
+Flood/O barriers/O have/O gone/O up/O in/O the/O capital/O Prague/LOCATION ./O 
+The/O floods/O caused/O by/O Storm/O Boris/O proved/O deadly/O in/O Romania/LOCATION on/O Saturday/O ,/O where/O four/O people/O were/O killed/O during/O floods/O in/O the/O south/O -/O eastern/O region/O of/O Galati/PERSON ./O 
+"/O We/O are/O again/O facing/O the/O effects/O of/O climate/O change/O ,/O which/O are/O increasingly/O present/O on/O the/O European/O continent/O ,/O with/O dramatic/O consequences/O ,/O "/O Romanian/O President/O Klaus/PERSON Iohannis/PERSON said/O on/O Saturday/O ./O 
+Extreme/O precipitation/O is/O becoming/O more/O likely/O in/O Europe/LOCATION ,/O as/O across/O much/O of/O the/O world/O ,/O due/O to/O climate/O change/O ./O 
+A/O warmer/O atmosphere/O can/O hold/O more/O moisture/O ,/O which/O can/O lead/O to/O heavier/O rainfall/O ./O 
+The/O mayor/O of/O Slobozia/LOCATION Conachi/LOCATION ,/O a/O village/O in/O Romania/LOCATION 's/O Galati/LOCATION region/O ,/O said/O 700/O homes/O had/O been/O flooded/O ./O 
+"/O This/O is/O a/O catastrophe/O of/O epic/O proportions/O ,/O "/O Emil/PERSON Dragomir/PERSON said/O ./O 
+In/O Glucholazy/LOCATION ,/O in/O Poland/LOCATION 's/O southwestern/O Opole/LOCATION region/O ,/O the/O mayor/O of/O the/O town/O said/O the/O local/O river/O had/O overflowed/O its/O banks/O and/O was/O now/O flooding/O the/O town/O ./O 
+He/O appealed/O to/O residents/O to/O evacuate/O to/O higher/O ground/O on/O Sunday/O ./O 
+A/O resident/O of/O the/O town/O ,/O Zofia/PERSON Owsiaka/PERSON ,/O said/O everyone/O was/O "/O scared/O "/O and/O there/O seemed/O to/O be/O "/O no/O hope/O of/O the/O rain/O stopping/O "/O ./O 
+In/O Krakow/LOCATION ,/O Poland/LOCATION 's/O second/O largest/O city/O ,/O residents/O have/O been/O offered/O sandbags/O for/O flood/O protection/O ./O 
+Speaking/O from/O the/O town/O of/O Klodzko/LOCATION ,/O one/O of/O the/O worst/O affected/O areas/O in/O Lower/LOCATION Silesia/LOCATION near/O the/O Czech/O border/O ,/O Mr/O Tusk/PERSON said/O 1600/O people/O in/O the/O district/O had/O been/O evacuated/O ./O 
+He/O urged/O other/O residents/O to/O cooperate/O with/O the/O emergency/O services/O when/O asked/O to/O evacuate/O their/O homes/O ./O 
+In/O the/O area/O ,/O 17,000/O people/O are/O without/O power/O ,/O he/O said/O ./O 
+In/O some/O locations/O ,/O the/O mobile/O telephone/O signal/O is/O not/O working/O and/O the/O internet/O is/O down/O ,/O so/O he/O said/O he/O had/O taken/O the/O decision/O to/O use/O Starlink/ORGANIZATION satellites/O ./O 
+He/O said/O a/O Blackhawk/O helicopter/O had/O been/O sent/O to/O the/O region/O ’s/O capital/O ,/O Wroclaw/LOCATION ,/O where/O thousands/O of/O residents/O had/O to/O use/O the/O staircases/O of/O high/O -/O rise/O blocks/O because/O lifts/O were/O shut/O as/O a/O flood/O safety/O precaution/O ,/O local/O media/O reported/O ./O 
+In/O the/O Czech/LOCATION Republic/LOCATION ,/O a/O dam/O burst/O in/O the/O country/O 's/O South/LOCATION Bohemia/LOCATION region/O on/O Saturday/O ./O 
+Environment/O Minister/O Petr/PERSON Hladik/PERSON urged/O those/O in/O the/O worst/O -/O hit/O areas/O to/O prepare/O to/O leave/O their/O homes/O ./O 
+Hladik/PERSON said/O the/O ground/O was/O saturated/O and/O rainwater/O was/O staying/O on/O the/O surface/O -/O increasing/O the/O risk/O of/O flash/O floods/O ./O 
+Rain/O in/O the/O Czech/LOCATION Republic/LOCATION is/O expected/O until/O Tuesday/O ,/O the/O minister/O said/O ./O 
+Czech/O Prime/O Minister/O Petr/PERSON Fiala/PERSON said/O the/O country/O braced/O for/O "/O a/O tough/O weekend/O "/O ./O 
+Authorities/O have/O put/O up/O protective/O walls/O of/O sandbags/O and/O metal/O barriers/O ./O 
+Football/O matches/O in/O the/O country/O 's/O top/O two/O leagues/O scheduled/O for/O this/O weekend/O were/O cancelled/O ./O 
+Storm/O Boris/O has/O already/O brought/O extreme/O amounts/O of/O rain/O across/O central/O and/O eastern/O Europe/LOCATION ,/O with/O more/O torrential/O downpours/O in/O the/O forecast/O through/O until/O at/O least/O the/O end/O of/O Monday/O ./O 
+Some/O of/O the/O highest/O rainfall/O totals/O so/O far/O have/O been/O in/O the/O Czech/LOCATION Republic/LOCATION ./O 
+At/O Lysa/PERSON Hora/PERSON in/O the/O mountains/O in/O the/O west/O of/O the/O country/O ,/O 288/LOCATION mm/O of/O rain/O has/O fallen/O since/O Thursday/O ./O 
+This/O is/O around/O three/O months/O ’/O worth/O of/O rain/O in/O just/O three/O days/O ./O 
+The/O storm/O has/O been/O so/O devastating/O for/O two/O reasons/O ./O 
+Firstly/O ,/O the/O positioning/O of/O the/O storm/O has/O been/O drawing/O in/O colder/O air/O from/O the/O north/O to/O mix/O with/O moisture/O drawn/O up/O from/O the/O unusually/O warm/O waters/O of/O the/O Mediterranean/LOCATION and/O the/O Black/O Sea/O ./O 
+Secondly/O -/O the/O low/O pressure/O has/O been/O very/O slow/O moving/O over/O the/O same/O areas/O ./O 
+It/O ’s/O been/O stuck/O in/O a/O ‘/O blocked/O weather/O pattern/O ’/O ,/O meaning/O the/O storm/O is/O cut/O -/O off/O and/O trapped/O between/O high/O pressure/O to/O the/O west/O and/O the/O east/O ./O 
+Storm/O Boris/O is/O being/O described/O as/O a/O 1/O in/O 50/O year/O event/O by/O the/O Ministry/O of/O the/O Environment/O of/O the/O Czech/LOCATION Republic/LOCATION ./O 
+However/O the/O frequency/O of/O this/O type/O of/O flooding/O is/O likely/O to/O increase/O ./O 
+Following/O the/O extreme/O flooding/O back/O in/O 2021/O in/O Europe/LOCATION ,/O the/O World/ORGANIZATION Weather/ORGANIZATION Attribution/ORGANIZATION Network/ORGANIZATION concluded/O that/O the/O likelihood/O and/O intensity/O of/O this/O type/O of/O flooding/O event/O in/O Europe/LOCATION is/O increasing/O in/O a/O rapidly/O warming/O climate/O ./O 
+Additional/O reporting/O by/O Sarah/PERSON Keith/PERSON -/PERSON Lucas/PERSON 
